@@ -26,5 +26,6 @@ public class Test004 {
         System.out.println("result:"+sb.toString());
         System.out.println("7th version");
         System.out.println("7.5th version");
+        System.out.println("8th version");
     }
 }
